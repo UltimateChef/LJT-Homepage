@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic portfolio"
+description              : &description "First-year PhD candidate at HKUST NLP Group"
 url                      : https://UltimateChef.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "UltimateChef/LJT-Homepage"
